@@ -1,0 +1,1 @@
+# random-vector-size-30-and-it-s-mean
